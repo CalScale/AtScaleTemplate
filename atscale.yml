@@ -1,5 +1,5 @@
-unique_name: atscale
-label: atscale
+unique_name: atscaleTraining
+label: atscaleTraining
 object_type: catalog
 as_version: 1.0
 aggressive_agg_promotion: false
