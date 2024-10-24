@@ -2,4 +2,11 @@ unique_name: adding-a-model
 object_type: model
 label: adding-a-model
 metrics: []
-relationships: []
+relationships:
+  - unique_name: factinternetsales_empty_dimension
+    from:
+      dataset: factinternetsales
+      join_columns: []
+    to:
+      dimension: ''
+      level: ''
